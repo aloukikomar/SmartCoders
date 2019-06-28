@@ -1,0 +1,8 @@
+====Automation Test 1561670237==================================================================
+Starting Test Case 1 
+Completed Test Case 1 | Result FAIL
+Starting Test Case 2 
+Completed Test Case 2 | Result PASS
+====Status : Fail ==================================================================
+{'TestFlag4': 'PASS', 'TestFlag2': 'FAIL'}
+Total Test Cases :2 Pass : 1 Fail : 1
